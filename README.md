@@ -8,11 +8,15 @@ SubdomainEnum is tool which is used for discovering subdomains using custom word
 1) requests
 2) optparse
 
-### Tool Usage:
+### Download Requirments
+
+pip install -r requirements.txt
+
+#### Tool Usage:
 
 ![carbon-2](https://user-images.githubusercontent.com/30910269/82932344-eba37600-9fa5-11ea-891c-18ccacfee94e.png)
 
-#### Download:
+##### Download:
 1) git clone https://github.com/devansh3008/SubdomainEnum.git
 2) cd SubdomainEnum
 3) python SundomainEnum.py -d domain -w wordlist
