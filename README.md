@@ -6,7 +6,7 @@ SubdomainEnum is tool which is used for discovering subdomains using custom word
 
 ## Requriments:
 1) requests
-2) 
+2) optparse
 
 ### Tool Usage:
 
