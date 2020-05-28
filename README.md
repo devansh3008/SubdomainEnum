@@ -8,7 +8,7 @@ SubdomainEnum is tool which is used for discovering subdomains using custom word
 1) requests
 2) optparse
 
-### Download Requirments
+### Download Requirments:
 
 pip install -r requirements.txt
 
